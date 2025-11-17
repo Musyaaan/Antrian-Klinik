@@ -1,4 +1,3 @@
-Berikut README versi Bahasa Indonesia, rapi, tanpa emoji, dan sudah memasukkan konteks alur database yang kamu berikan.
 
 ---
 
